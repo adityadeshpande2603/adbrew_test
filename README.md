@@ -6,6 +6,11 @@ This submission is my response to the Adbrew technical test, which is designed t
 
 For this test, I implemented the backend using Django, focusing on clean API design, proper project structure, and maintainable code practices. The frontend is built using React, and the entire application is containerized using Docker to ensure consistent and reproducible setup across environments.
 
+# ScreenRecording and ScreenShots
+
+1. https://drive.google.com/file/d/19NtO1yU-0Id4ok1KXZh2XSMMPDYyIogs/view?usp=sharing
+
+2. https://drive.google.com/file/d/1BE4sgSzIkAnNqnOy8pn-ucfMc1rjZ9kB/view?usp=sharing
 
 # Structure
 
@@ -40,6 +45,8 @@ e445be7efa61   adbrew_test_api     "bash -c 'cd /src/re…"   3 minutes ago   Up
 884cb9296791   adbrew_test_mongo   "/usr/bin/mongod --b…"   4 minutes ago   Up 3 minutes   0.0.0.0:27017->27017/tcp   mongo
 ```
 6. Check that you are able to access http://localhost:3000 and http://localhost:8000/todos
+
+
 
 
 

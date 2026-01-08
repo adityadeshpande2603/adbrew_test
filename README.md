@@ -23,7 +23,7 @@ This repository includes code for a Docker setup with 3 containers:
 # Setup
 1. Clone this repository (DO NOT FORK)
 ```
-git clone https://github.com/adbrew/adb_test.git
+git clone https://github.com/adityadeshpande2603/adbrew_test.git
 ```
 2. Change into the cloned directory and set the environment variable for the code path. Replace `path_to_repository` appropriately.
 ```
